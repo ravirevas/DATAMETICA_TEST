@@ -1,0 +1,14 @@
+UserId,ProductId,Category,Action
+1,111,Electronics,Click
+2,112,Fashion,Click
+3,113,Kids,AddtoCart
+4,114,Food,Purchase
+5,115,Books,Logout
+6,114,Food,Click
+7,113,Kids,AddtoCart
+8,115,Books,Purchase
+9,111,Electronics,Click
+10,112,Fashion,Purchase
+3,112,Fashion,Click
+1,112,Fashion,Click
+2,112,Electronics,Click
